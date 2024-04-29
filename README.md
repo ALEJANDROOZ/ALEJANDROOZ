@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy, Alejandro Ortiz</h1>
+<h1 align="center">Hola 👋, Soy Alejandro Ortiz</h1>
 <h3 align="center">Un apasionado desarrollador frontend/backend de Argentina</h3>
 
 - 🔭 Actualmente estoy estudiando **Python**

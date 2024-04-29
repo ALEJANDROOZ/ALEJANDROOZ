@@ -1,5 +1,11 @@
 <h1 align="center">Hola 👋, Soy Alejandro Ortiz</h1>
 <h3 align="center">Un apasionado desarrollador frontend/backend de Argentina</h3>
+<div class="imagen" align="center">
+<img align="center" width="250" src="https://media3.giphy.com/media/vVTy9AYP9tKsU/giphy.webp?cid=790b76114n1rcoqsjj8mfeoa39i4836e6zjerhqqjwfp3t09&ep=v1_gifs_search&rid=giphy.webp&ct=g">
+</div>
+
+<h2 > 
+
 
 - 🔭 Actualmente estoy estudiando **Python**
 
